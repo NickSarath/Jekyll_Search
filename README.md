@@ -7,7 +7,7 @@ A JavaScript library to add search functionality to any Jekyll blog.
 
 ---
 
-idea from this [blog post](https://alexpearce.me/2012/04/simple-jekyll-searching/#disqus_thread)
+idea from this Christian Fei
 
 ---
 
